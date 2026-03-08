@@ -2,6 +2,14 @@
 
 An intelligent decision-support system that bridges the gap between **IoT-enabled bin monitoring** and **combinatorial optimization** to revolutionize urban waste management.
 
+<img width="1900" height="642" alt="{20F295A8-2B94-4656-A324-EE4A2416278A}" src="https://github.com/user-attachments/assets/630fed5c-7279-4361-9d17-8b02f4f2a51d" />
+
+<img width="1884" height="877" alt="{67B0C254-84CE-42E0-8A62-EDC81092704B}" src="https://github.com/user-attachments/assets/5c859112-6374-4577-82c7-7dd54bf86454" />
+
+<img width="1891" height="929" alt="{1734999E-2159-4606-9392-6C7B9BB255FC}" src="https://github.com/user-attachments/assets/b7102aa0-dc8e-4e36-999b-7995516ad804" />
+
+
+
 ---
 
 ## 📖 Key Research Findings
@@ -61,7 +69,7 @@ $$d(i, j) = 2R \cdot \arcsin\left(\sqrt{\sin^2\left(\frac{\Delta\phi}{2}\right) 
 ### 1. Backend (Python)
 
 ```bash
-cd backend
+cd waste-backend
 pip install flask flask-cors numpy
 python app.py
 
@@ -70,7 +78,7 @@ python app.py
 ### 2. Frontend (React)
 
 ```bash
-cd frontend
+cd easte-frontend
 npm install
 npm run dev
 
